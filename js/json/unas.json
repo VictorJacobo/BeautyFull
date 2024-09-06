@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nombre": "Unicorn",
+        "descrip": "Uñas con esmalte blanco y decorado de unicornio.",
+        "precio": 200,
+        "img": "./../../img/unas/01.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Aqua Waves",
+        "descrip": "Diseño de uñas con oleaje del mar.",
+        "precio": 400,
+        "img": "./../../img/unas/02.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Ice Cream Mint",
+        "descrip": "Decoración de uñas mesclando dos colores de esmalte con un diseño unico de mozaico.",
+        "precio": 220,
+        "img": "./../../img/unas/03.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Simple Mate",
+        "descrip": "Diseño simple, pero elegante, esmalte a su elección en estilo mate.",
+        "precio": 150,
+        "img": "./../../img/unas/04.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Sweet Vibes",
+        "descrip": "Diseño de lineas, bastante bonito y elegante.",
+        "precio": 250,
+        "img": "./../../img/unas/05.jpeg"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Butterfly",
+        "descrip": "Esmalte brillante con diseño de mariposas.",
+        "precio": 300,
+        "img": "./../../img/unas/06.jpg"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Cards",
+        "descrip": "Diseño de cartas de poker, pueden ser corazones, picas o diamantes.",
+        "precio": 350,
+        "img": "./../../img/unas/07.jpg"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Flowers",
+        "descrip": "Diseño blanco y negro de flores, bastante elegante.",
+        "precio": 350,
+        "img": "./../../img/unas/08.jpg"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Cow Nails",
+        "descrip": "Diseño de manchas de vaca, puede ser con mas colores de esmalte.",
+        "precio": 280,
+        "img": "./../../img/unas/09.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Tiny Flower",
+        "descrip": "Diseño de flores de un color, se puede variar el esmalte.",
+        "precio": 350,
+        "img": "./../../img/unas/10.jpg"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Spoky Nails",
+        "descrip": "Diseño con tematica de hallowen, puede ser de uno solo o variado.",
+        "precio": 400,
+        "img": "./../../img/unas/11.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Valentaine",
+        "descrip": "Diseño de San Valentin de uñas, bastante popular en febrero",
+        "precio": 300,
+        "img": "./../../img/unas/12.jpg"
+    }
+]

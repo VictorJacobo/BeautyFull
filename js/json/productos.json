@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nombre": "Champú",
+        "descrip": "Un producto de limpieza que se utiliza para lavar el cabello y mantenerlo sano y limpio.",
+        "precio": 80,
+        "img": "./../../img/productos/01.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Acondicionador",
+        "descrip": "Un producto que se utiliza después del champú para suavizar el cabello y hacerlo más manejable.",
+        "precio": 90,
+        "img": "./../../img/productos/02.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Mascarilla capilar",
+        "descrip": "Un producto intensivo que se aplica en el cabello para hidratarlo, repararlo y mejorar su apariencia.",
+        "precio": 80,
+        "img": "./../../img/productos/03.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Crema hidratante",
+        "descrip": "Un producto que se utiliza para hidratar la piel y mantenerla suave y saludable.",
+        "precio": 120,
+        "img": "./../../img/productos/04.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Protector solar",
+        "descrip": "Un producto que se utiliza para proteger la piel de los rayos UV del sol y prevenir el daño solar.",
+        "precio": 230,
+        "img": "./../../img/productos/05.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Loción corporal",
+        "descrip": "Un producto que se utiliza para hidratar y suavizar la piel del cuerpo.",
+        "precio": 150,
+        "img": "./../../img/productos/06.jpg"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Esmalte de uñas",
+        "descrip": "Un producto que se utiliza para pintar y decorar las uñas con una amplia variedad de colores y acabados.",
+        "precio": 50,
+        "img": "./../../img/productos/07.jpg"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Gel de peinado",
+        "descrip": "Un producto que se utiliza para dar forma y fijar el cabello en su lugar, a menudo se usa para crear peinados específicos.",
+        "precio": 70,
+        "img": "./../../img/productos/08.jpg"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Laca para el cabello",
+        "descrip": "Un producto que se utiliza para fijar el cabello en su lugar y darle un acabado duradero.",
+        "precio": 90,
+        "img": "./../../img/productos/09.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Aceite facial",
+        "descrip": "Un producto hidratante que se utiliza para mantener la piel del rostro suave, flexible y radiante.",
+        "precio": 130,
+        "img": "./../../img/productos/10.jpg"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Base de maquillaje",
+        "descrip": "Un producto que se utiliza para igualar el tono de la piel, cubrir imperfecciones y crear una base para el maquillaje.",
+        "precio": 200,
+        "img": "./../../img/productos/11.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Máscara de pestañas",
+        "descrip": "Un producto que se utiliza para dar volumen, longitud y definición a las pestañas.",
+        "precio": 190,
+        "img": "./../../img/productos/12.jpg"
+    }
+]

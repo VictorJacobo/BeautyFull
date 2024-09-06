@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Corte de Cabello",
+        "descrip": "Los estilistas en el salón de belleza están capacitados para realizar cortes de cabello personalizados para satisfacer las necesidades y preferencias de cada cliente.",
+        "tiempo": 40,
+        "precio": 130,
+        "img": "./../../img/peinados/13.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Peinado",
+        "descrip": "Los estilistas pueden crear peinados para diferentes ocasiones como bodas, graduaciones o eventos especiales. También pueden ayudar a elegir peinados para el día a día.",
+        "tiempo": 50,
+        "precio": 150,
+        "img": "./../../img/peinados/14.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Tintes de cabello",
+        "descrip": "Se pinta el cabello a preferencia ya sea permanente o semi-permanente, puede ser completo o mechas.",
+        "tiempo": 60,
+        "precio": 250,
+        "img": "./../../img/peinados/15.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Extensiones de cabello",
+        "descrip": "Ofrecemos diferentes tipos de extensiones de cabello, como extensiones de clip, extensiones de pegamento o extensiones de micro-link.",
+        "tiempo": 45,
+        "precio": 250,
+        "img": "./../../img/peinados/08.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Tratamiento del cuero cabelludo",
+        "descrip": "Consientete, ofrecemos acondicionamiento profundo, hidratación, reparacion de daños, alisado y relajamiento.",
+        "tiempo": 90,
+        "precio": 500,
+        "img": "./../../img/peinados/16.jpg"
+    }
+
+]

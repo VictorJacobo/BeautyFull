@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manicura",
+        "descrip": "Este es el tratamiento básico para las uñas y las manos, que incluye limpieza, corte y limado de las uñas, empuje de las cutículas y masaje de manos.",
+        "tiempo": 45,
+        "precio": 300,
+        "img": "./../../img/unas/13.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Pedicura",
+        "descrip": "Incluye limpieza, corte y limado de las uñas, eliminación de callosidades, empuje de las cutículas y masaje de pies.",
+        "tiempo": 45,
+        "precio": 350,
+        "img": "./../../img/unas/14.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Aplicación de productos",
+        "descrip": "Masaje, hidratación y aplicación de producto especial para uñas debiles o con hongo.",
+        "tiempo": 60,
+        "precio": 400,
+        "img": "./../../img/unas/18.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Esmaltado",
+        "descrip": "Puede añadir un esmaltado a sus uñas con una variedad de colores.",
+        "tiempo": 30,
+        "precio": 100,
+        "img": "./../../img/unas/15.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Uñas acrílicas",
+        "descrip": "Son uñas artificiales que se adhieren a las uñas naturales con un pegamento especial. Después se liman y se moldean para dar forma y se puede aplicar esmalte o nail art.",
+        "tiempo": 45,
+        "precio": 400,
+        "img": "./../../img/unas/16.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Uñas de gel",
+        "descrip": "Son uñas artificiales que se aplican con un gel especial y se endurecen bajo una luz UV. Se liman y moldean para dar forma y se puede aplicar esmalte o nail art.",
+        "tiempo": 45,
+        "precio": 450,
+        "img": "./../../img/unas/17.png"
+    }
+
+]

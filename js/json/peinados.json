@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nombre": "Corte Bob",
+        "descrip": "Un corte de cabello corto que llega hasta la barbilla.",
+        "precio": 100,
+        "img": "./../../img/peinados/01.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Peinado de Novia",
+        "descrip": "Un peinado elegante y sofisticado diseñado para novias en su día especial.",
+        "precio": 500,
+        "img": "./../../img/peinados/02.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Corte en Capas",
+        "descrip": "Un corte de cabello en el que se cortan capas en el cabello para crear un efecto de volumen y textura.",
+        "precio": 100,
+        "img": "./../../img/peinados/03.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Balayage",
+        "descrip": "Una técnica de coloración en la que se aplican reflejos de color a mano alzada para lograr un aspecto más natural.",
+        "precio": 250,
+        "img": "./../../img/peinados/04.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Peinado Trenzado",
+        "descrip": "Un peinado en el que el cabello se trenza de diversas formas, creando un aspecto romántico y bohemio.",
+        "precio": 100,
+        "img": "./../../img/peinados/05.jpg"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Permanente",
+        "descrip": "Un tratamiento para el cabello en el que se utiliza una solución química para crear rizos o ondas permanentes.",
+        "precio": 300,
+        "img": "./../../img/peinados/06.jpg"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Peinado Afro",
+        "descrip": "Un peinado que consiste en dejar el cabello natural, con una textura rizada y un volumen espectacular.",
+        "precio": 450,
+        "img": "./../../img/peinados/07.jpg"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Extensiones de Cabello",
+        "descrip": " Agregar cabello artificial para lograr más longitud, volumen y/o textura al cabello natural.",
+        "precio": 300,
+        "img": "./../../img/peinados/08.jpg"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Peinado Chongo",
+        "descrip": "Un estilo elegante en el que se recoge todo el cabello en un moño bajo o alto.",
+        "precio": 100,
+        "img": "./../../img/peinados/09.jpg"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Flequillo",
+        "descrip": "Un corte de cabello en el que se corta el cabello en la parte delantera de la cabeza para cubrir la frente.",
+        "precio": 150,
+        "img": "./../../img/peinados/10.jpg"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Peinado con Ondas",
+        "descrip": "Un estilo en el que el cabello se peina con ondas suaves para lograr un aspecto elegante y romántico.",
+        "precio": 300,
+        "img": "./../../img/peinados/11.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Peinado Pixie",
+        "descrip": "Un corte de cabello corto y moderno en el que se corta el cabello cerca de la cabeza, dejando mechones más largos en la parte superior.",
+        "precio": 620,
+        "img": "./../../img/peinados/12.jpg"
+    }
+]

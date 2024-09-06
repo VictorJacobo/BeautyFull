@@ -1,0 +1,587 @@
+@font-face {
+    font-family: 'Shine';
+    src: url('/fonts/Shine-Pro-Reg.ttf');
+}
+
+@font-face {
+    font-family: 'Menco';
+    src: url('/fonts/Menco.ttf');
+}
+
+body {
+    font-family: 'Shine';
+}
+
+a {
+    text-decoration: none;
+}
+
+header{
+    margin-bottom: 80px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    background: rgb(55, 48, 107);
+    background: -moz-linear-gradient(0deg, rgba(55, 48, 107, 1) 24%, rgba(102, 52, 127, 1) 66%);
+    background: -webkit-linear-gradient(0deg, rgba(55, 48, 107, 1) 24%, rgba(102, 52, 127, 1) 66%);
+    background: linear-gradient(0deg, rgba(55, 48, 107, 1) 24%, rgba(102, 52, 127, 1) 66%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#37306b", endColorstr="#66347f", GradientType=1);
+}
+
+nav a {
+    color: white;
+}
+
+nav .navbar-nav a:hover{
+    background-color: #D27685;
+    border-radius: 10px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+
+
+nav button {
+    filter: invert(99%) sepia(1%) saturate(332%) hue-rotate(328deg) brightness(123%) contrast(100%);
+}
+
+h1 {
+    color: #D27685;
+    text-shadow: 2px 2px 4px #66347F;
+    text-align: center;
+    margin: 30px 0 20px 0;
+    font-family: 'Menco';
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.navbar-nav a {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.carrusel-width {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    filter: brightness(50%);
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.c-titular {
+    font-size: 40px;
+}
+
+.carousel-caption button{
+    background-color: #D27685;
+    color: white;
+}
+
+.carousel-caption button:hover{
+    background-color: #66347F;
+    color: white;
+}
+
+.about {
+    padding: 20px;
+    margin: 10px auto 30px auto;
+    text-align: justify;
+    background-color: #D27685;
+    border-radius: 20px;
+}
+
+.about button {
+    background-color: #66347F;
+    color: white;
+    width: 100%;
+}
+
+.about button:hover {
+    background-color: #c25a6c;
+    color: white;
+}
+
+.tarjeta {
+    padding: 10px;
+    height: 100%;
+}
+
+.tarjeta img{
+    width: 40%;
+}
+
+.tarjeta h4 {
+    font-family: 'Menco';
+}
+
+.tarjeta p{
+    font-size: 15px;
+}
+
+.tarjeta button{
+    background-color: #D27685;
+    color: white;
+}
+
+.tarjeta button:hover{
+    background-color: #66347F;
+    color: white;
+}
+
+footer {
+    background-color: #37306B;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.pie {
+    background-color: #66347F;
+}
+
+
+/*Estilos pagina unas*/
+section .col-lg-3{
+    padding: 10px;
+}
+
+section .col-lg-6{
+    padding: 10px;
+}
+.card {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    box-shadow: 2px 2px 4px gray;
+    height: 100%;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card hr{
+    width: 100%;
+    margin: 10px 0;
+}
+
+.card p:first-of-type{
+    margin: 10px auto 0 auto;
+    font-weight: bold;
+}
+
+.card p:nth-of-type(2){
+    margin: 0;
+    text-align: center;
+}
+
+.card div{
+    display: flex;
+    flex-direction: row;
+}
+
+.card div p:first-of-type{
+    margin: 0 0 10px 0;
+}
+.card div p:nth-of-type(2){
+    margin: 0 0 0 5px;
+    font-weight: bold;
+    color: #37306B;
+}
+.card button{
+    background-color: #D27685;
+    color: white;
+}
+
+.card button:hover{
+    background-color: #66347F;
+    color: white;
+}
+
+
+/*Contacto*/
+.c-text {
+    font-size: large;
+    text-align: center;
+}
+
+.contact form .btn {
+    background-color: #D27685;
+    color: white;
+    width: 100%;
+}
+
+.contact form .btn:hover {
+    background-color: #66347F;
+    color: white;
+}
+
+/*login*/
+.l-container{
+    margin: 100px 0 100px 0;
+}
+.l-card {
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px gray;
+    padding: 10px 15px;
+}
+
+.l-card .form-label{
+    display: flex;
+    justify-content: center;
+}
+
+.l-card .btn {
+    background-color: #D27685;
+    color: white;
+    width: 100%;
+}
+
+.l-card .btn:hover {
+    background-color: #66347F;
+    color: white;
+}
+
+.l-card input{
+    text-align: center;
+}
+
+.l-card .user{
+    display: flex;
+    justify-content: center;
+}
+
+.l-card img{
+    width: 30%;
+}
+
+/*Registro*/
+
+.register {
+    padding: auto 3vw;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+
+.register div{
+    margin-top: 1vh;
+}
+
+.r-btn button{
+    background-color: #D27685;
+    color: white;
+    width: 100%;
+}
+
+.r-btn button:hover{
+    background-color: #66347F;
+    color: white;
+}
+
+.estado img{
+    width: 100%;
+    margin: auto 0;
+}
+
+/*cita*/
+.cita {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#calendar {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+#calendar .col-1 {
+    width: 14.28%;
+}
+
+#calendar .col-7 {
+    width: 100%;
+}
+
+#calendar p.mes{
+    font-size:xx-large;
+    color:black;
+    font-weight: bold;
+}
+
+#calendar p {
+    color:gray;
+}
+
+#calendar .btn:hover {
+    background-color: #66347F;
+    color: white;
+}
+
+#calendar .active {
+    background-color: #66347F;
+    color: white;
+}
+#calendar .col-1{
+    overflow: hidden;
+}
+
+#s_cabello {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#s_unas {
+    display: flex;
+    justify-content: space-between;
+}
+
+#s_pint {
+    display: flex;
+    justify-content: space-between;
+}
+
+.s-card {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 2px 2px 4px gray;
+    height: 100%;
+    margin: 5px;
+}
+
+.s-card img {
+    width: 100%;
+}
+
+.s-card hr{
+    width: 100%;
+    margin: 10px 0;
+}
+
+.s-card p{
+    margin: 10px auto 0 auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.s-card div{
+    display: flex;
+    flex-direction: row;
+}
+
+.s-card div p:first-of-type{
+    margin: 0 0 10px 0;
+}
+.s-card div p:nth-of-type(2){
+    margin: 0 0 0 5px;
+    font-weight: bold;
+    color: #37306B;
+}
+
+.form-check-input {
+    border: solid;
+}
+
+.c {
+    width: 100%;
+}
+
+.f-card {
+    text-align: center;
+    padding: 30px;
+    box-shadow: 2px 2px 4px gray;
+    margin: 15px auto;
+}
+
+.f-card {
+    margin: 10px auto;
+}
+
+.f-card div{
+    font-size: x-large;
+    display: flex;
+    justify-content: space-between;
+}
+
+.f-card div p:first-of-type{
+    margin: 0 0 10px 0;
+}
+.f-card div p:nth-of-type(2){
+    font-size: x-large;
+    margin: 0 0 0 5px;
+    font-weight: bold;
+    color: #37306B;
+}
+
+.f-card button{
+    margin-top: 10px;
+    width: 95%;
+    background-color: #D27685;
+    color: white;
+}
+
+.f-card button:hover{
+    background-color: #66347F;
+    color: white;
+}
+
+#reserva {
+    width: 100%;
+}
+
+#reserva .row{
+    margin-bottom: 20px;
+}
+
+.r {
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.inv {
+    display: none;
+}
+
+/*Admin*/
+.auser {
+    margin-bottom: 20px;
+}
+.u-card {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 10px;
+}
+.u-card div{
+    font-size: x-large;
+    display: flex;
+    justify-content: space-between;
+}
+.u-card div p:first-of-type{
+    margin: 0 0 10px 0;
+    color: black;
+}
+.u-card div p:nth-of-type(2){
+    margin: 0 0 0 5px;
+    font-weight: bold;
+    color: #37306B;
+}
+
+
+@media (max-width:720px) {
+
+    .navbar-nav a{
+        text-align: center;
+    }
+
+    .carousel-item {
+        height: 300px;
+    }
+
+    .servicios {
+        flex-direction: column;
+    }
+
+    .servicios .col-4 {
+        width: 100%;
+    }
+
+    .tarjeta {
+        padding: 20px;
+    }
+
+    .texto .col-8 {
+        width: 100%;
+    }
+
+    /*Estilos pagina unas*/
+    section .col-lg-3{
+        padding: 20px;
+    }
+
+    .card img {
+        width: 100%;
+    }
+
+    .login .col-6{
+        width: 80%;
+    }
+
+    .register .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #calendar {
+        width: 90%;
+    }
+
+
+    #s_cabello {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #s_unas {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #s_pint {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #reserva .col-lg-2{
+        width: 90%;
+    }
+
+    .col-sm-2{
+        width: 40%;
+    }
+
+    .col-sm-3{
+        width: 40%;
+    }
+    .s-card {
+        height: auto;
+    }
+    .s-card img {
+        width: 50%;
+    }
+
+    .f-card {
+        width: 95%;
+    }
+
+}
